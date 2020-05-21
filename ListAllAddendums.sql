@@ -1,0 +1,2 @@
+SELECT ADD_ID AS ID, ADD_TITLE AS Title, MRA_ID, ADD_YEAR AS YearSubmitted, ADD_LINK AS Link
+FROM Addendum
